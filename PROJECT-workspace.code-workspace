@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../Python"
+		},
+		{
+			"path": "../web-dev"
+		},
+		{
+			"path": "../C-C++"
+		},
+		{
+			"path": "../JAVA"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "web-dev"
+	}
+}
